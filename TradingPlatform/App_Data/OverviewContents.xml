@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Nodes>
+  <TreeViewNode Text="Actions" NavigateUrl="#ResponsiveWebApplication">
+	<TreeViewNode Text="Create Deal"  NavigateUrl="~/Deal.aspx"  />
+	<TreeViewNode Text="Upload Counter Prices"  NavigateUrl="~/CounterPriceUpload.aspx"  />
+	
+  </TreeViewNode>
+  <TreeViewNode Text="Views" NavigateUrl="#content">
+	<TreeViewNode Text="PortFolio View" NavigateUrl="~/PortfoliView.aspx" />
+	<TreeViewNode Text="Transaction View" NavigateUrl="~/Transactions.aspx" />
+  
+  </TreeViewNode>
+
+	<TreeViewNode Text="Admin Management" NavigateUrl="#content">
+		<TreeViewNode Text="Register School" NavigateUrl="~/SchoolRegistration.aspx" />
+		<TreeViewNode Text="User Creation" NavigateUrl="~/Users.aspx" />
+
+	</TreeViewNode>
+</Nodes>

@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="TradingPlatform.Global_asax" Language="C#" %>
